@@ -1,4 +1,5 @@
 Создайте с нуля проект с функционалом как в gif файле.
+
 <img src="https://raw.githubusercontent.com/AlexandrGraschenkov/HW_CollectionView/master/example.gif" alt="Demo" />
 
 Запрос фотографий:
